@@ -4,11 +4,12 @@ html {
   box-sizing: border-box;
   font-size: 20px;
   font-family: "Courier New", Courier, monospace;
-
-  --color1: #07add8;
-  --color2: #8762a9;
+  background-color: var(--color5);
+  --color1: #e07a5f;
+  --color2: #81b29a;
   --color3: white;
   --color4: black;
+  --color5: #f4f1de;
 }
 
 main {
